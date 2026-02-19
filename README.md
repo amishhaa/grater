@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>grater-basics</h1>
+<h1>grater</h1>
 
 <h2>Setup Instructions</h2>
 
@@ -20,8 +20,8 @@
 <h2>Install grater (from source)</h2>
 
 <p>Clone the repo:</p>
-<pre><code>git clone https://github.com/amishhaa/grater-basics.git
-cd grater-basics</code></pre>
+<pre><code>git clone https://github.com/amishhaa/grater.git
+cd grater</code></pre>
 
 <p>Build and install the CLI:</p>
 <pre><code>go install ./cmd/grater</code></pre>
